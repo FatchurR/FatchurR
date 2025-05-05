@@ -2,23 +2,29 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU0b2UwZGx2dm5tdW54bnkybjZnY2M0eHk3ZHRnY2c2NGlhajQzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
+<p align="left">Tech-driven developer focused on OS-level systems like Linux and Android, with practical skills in C, C++, Java, and Flutter for app development. I am deeply interested in technology and dedicated to understanding how it works at a deeper level, especially the workings of the kernel. I'm highly enthusiastic about cross-platform app development and always eager to explore new tools and frameworks.</p>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU0b2UwZGx2dm5tdW54bnkybjZnY2M0eHk3ZHRnY2c2NGlhajQzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
 
 ###
 
@@ -30,16 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/FatchurR/FatchurR/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YiskG">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YiskG&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
